@@ -1,0 +1,10 @@
+Code Explanation
+Main Classes: The Book, Member, and Loan classes represent the main elements of the system.
+Library: The Library class manages books, members, and loans, providing methods for adding, listing, and borrowing books.
+Basic Functionality: In the main method of the Library class, you can see how to add books and members, and borrow a book.
+
+Project Structure
+Book - Represents the books in the library.
+Member - Represents the users of the library.
+Loan - Manages book loans.
+Library - Main class that manages books and members.
